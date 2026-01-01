@@ -1,4 +1,7 @@
 # Version 1.0
- - Added the Prop
+ - Initial Release
 # Version 1.0.3
  - Changed the icon
+ - Added Github Repository
+# Version 1.0.4
+ - Fixed bugs

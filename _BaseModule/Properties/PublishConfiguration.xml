@@ -1,5 +1,5 @@
 <Publish>
-  <ModId Value="" />
+  <ModId Value="130347" />
   <DisplayName Value="Walmart Truck Trailer" />
   <ShortDescription Value="Prop of a Walmart Truck Trailer" />
   <LongDescription># Walmart Trailer Truck
@@ -35,7 +35,7 @@ Font is **included**
 ##  Enjoy &amp; Share Your Feedback!</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="" />
-  <ModVersion Value="1.0.2" />
+  <ModVersion Value="1.0.3" />
   <GameVersion Value="1.*" />
   <ChangeLog># Version 1.0
  - Added the Prop
@@ -48,4 +48,5 @@ Font is **included**
   <Screenshot Value="Screenshots\Screenshot4.jpg" />
   <Screenshot Value="Screenshots\Screenshot5.jpg" />
   <Dependency Id="92908" ModVersion="" DisplayName="Write Everywhere" />
+  <ExternalLink Type="github" Url="https://github.com/TomixsCZ/Tomixs-Walmart-Truck-Trailer.git" />
 </Publish>
